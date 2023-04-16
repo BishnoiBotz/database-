@@ -70,7 +70,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincessv2">
+<a href="https://github.com/Jhonwick0029/database">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -79,7 +79,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincessv2
+git clone https://github.com/Jhonwick0029/database
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -118,15 +118,15 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/moviebyabhi29)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/Bishnoi_botz)
 
 ## with Love  
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
+* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/Bishnoi_botz)
 
 
 ## Thanks to 
- - 🦋 Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤️.
+ - 🦋 Thank you [Bishnoi_notz](https://github.com/LazyDeveloperr) for helping us in this journey ❤️.
  - 🔺 From the side of [LazyDeveloper](https://github.com/LazyDeveloperr) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
  - 🔺 Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
  - 🔺 Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot).
@@ -135,7 +135,7 @@ python3 bot.py
 
 ### Note
 
-[Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
+[Join Developer Channel](https://telegram.dog/Bishnoi_botz): Bishnoi_botz
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
